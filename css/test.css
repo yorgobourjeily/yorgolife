@@ -1,0 +1,18 @@
+body{
+	background-color:yellow;
+}
+.big{
+	font-size:40px;
+}
+.uppercase{
+	text-transforme:uppercase;
+}
+.big.uppercase{
+	color:navy;
+}
+span{
+	color:green;
+}
+h1 span{
+	color:lightskyblue;
+}
