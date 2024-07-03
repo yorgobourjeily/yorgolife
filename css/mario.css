@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	font-family: 'arial';
+}
+header{
+	background-color: blue;
+	text-align: center;
+	padding-top: 50px;
+
+}
+h1,h2{
+	font-family: "Pixelify Sans", sans-serif;
+}
+header h1{
+	color: white;
+	font-size: 40px;
+}
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border:20px solid #F93636;
+}
+main{
+	padding: 0;
+	text-align: center;
+
+}
+.descriptionfont{
+	font-family: Georgia;
+	font-size: 13px;
+	color: #656565;
+	margin:0;
+}
+h2{
+	font-size: 40px;
+	color:#6F77FF;
+}
+main ol{
+	text-align: left;
+}
+main a:hover{
+	color:#04FF00;
+}
+footer{
+	background-color: blue;
+	text-align: center;
+	color: ghostwhite;
+}
